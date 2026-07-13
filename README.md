@@ -1,6 +1,3 @@
-# IT-Support-Field-Labs
-Practical IT support and small business infrastructure labs covering VLANs, DHCP, ACLs, network printers, POS systems, CCTV/IP cameras, Windows setup, backups, and troubleshooting.
-
 # IT Support Field Labs
 
 A practical IT support and small business infrastructure lab portfolio focused on networking, printers, POS systems, CCTV/IP cameras, VLAN segmentation, DHCP, ACLs, Windows setup, backups, and troubleshooting.
