@@ -6,6 +6,10 @@ This lab simulates the installation and configuration of a network printer in a 
 
 The scenario focuses on preparing the network, assigning a stable IP address to the printer, testing connectivity, and documenting the installation for future support.
 
+## Relationship to the Main Scenario
+
+This lab expands one service area from Lab 01: network printer support. It focuses on how a technician would configure, test, document, and troubleshoot a network printer inside a small business environment.
+
 ## Objectives
 
 - Analyze the existing network before installing the printer
