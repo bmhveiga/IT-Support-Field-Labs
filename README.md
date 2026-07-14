@@ -49,14 +49,6 @@ The goal is to show both high-level infrastructure planning and practical hands-
 - Network troubleshooting tools
 - Technical documentation
 
-## Relationship to the Other Labs
-
-This lab is the main infrastructure design for the scenario. The following labs zoom into specific support areas from this environment:
-
-- Lab 02 — Network Printer Configuration
-- Lab 03 — POS Support Lab
-- Lab 04 — CCTV / IP Camera Support
-
 ## Notes
 
 These labs are educational simulations created for IT support and infrastructure practice. They do not represent a real company network.
