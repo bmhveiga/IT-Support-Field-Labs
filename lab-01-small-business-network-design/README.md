@@ -6,6 +6,14 @@ This lab presents a preliminary network and services design for a small business
 
 The scenario includes administrative users, technical support, POS, network printers, CCTV/IP cameras, internal servers, staff Wi-Fi, and guest Wi-Fi.
 
+## Relationship to the Other Labs
+
+This lab is the main infrastructure design for the scenario. The following labs zoom into specific support areas from this environment:
+
+- Lab 02 — Network Printer Configuration
+- Lab 03 — POS Support Lab
+- Lab 04 — CCTV / IP Camera Support
+
 ## Objectives
 
 - Design a segmented small business network
